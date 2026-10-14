@@ -24,6 +24,9 @@
 Для обучения папка train должна содержать 100 изображений, папка val около 150 изображений. 
 
 https://habr.com/ru/companies/data_light/articles/852848/
+
 Для разметки классов на изображении использовать https://roboflow.com/
+
 Пример датасета https://drive.google.com/drive/folders/1NYqLKq9zOPn_yUspDo-VuIfdyF0rjLiH?usp=drive_link
+
 tg: @embanumba
